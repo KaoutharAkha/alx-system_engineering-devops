@@ -1,1 +1,1 @@
-This readme is about Where am I?
+This a redme for 0x00-shell_basics
