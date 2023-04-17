@@ -1,1 +1,2 @@
-This a redme for 0x00-shell_basics
+[master 2ecccc3] Hi there
+ 1 file changed, 1 insertion(+), 1 deletion(-)
