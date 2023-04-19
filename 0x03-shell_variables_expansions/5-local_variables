@@ -1,2 +1,2 @@
 #!/bin/bash
-declare -p | grep -Po "(?<=declare \-\w )[A-Za-z_][A-Za-z0-9_]*"
+set
